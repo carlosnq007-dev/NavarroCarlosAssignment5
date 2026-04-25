@@ -1,7 +1,7 @@
 /*
 Team Members: Carlos Navarro, Elyssa Esparza, Manuel Dixon
-Course: CSC242 – Intro to Programming Concepts
-Assignment 5 – Spell Checker (P8.2) & Monoalphabetic Cipher (P8.7)
+Course: CSC242 â€“ Intro to Programming Concepts
+Assignment 5 â€“ Spell Checker (P8.2) & Monoalphabetic Cipher (P8.7)
 
 Description:
 This program provides two functionalities:
@@ -202,7 +202,7 @@ int main() {
     cout << "Assignment 5 Program" << endl;
     cout << "1. Spell Checker" << endl;
     cout << "2. Cipher" << endl;
-    cout << "Enter your choice: ";
+    cout << "Enter your choice (1 or 2): ";
     cin >> choice;
 
     if (choice == 1) {
